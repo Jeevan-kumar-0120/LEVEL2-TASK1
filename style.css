@@ -1,0 +1,8 @@
+.box {
+    border: 1px solid orangered;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    background-color: yellow;
+    color: purple;
+}
